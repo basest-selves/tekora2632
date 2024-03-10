@@ -30,3 +30,4 @@ Data Pipeline Happiness is not something ready made. It comes from your own acti
 Quantum Computing Monitoring API Gateway Security NLP Don't be afraid to give up the good to go for the great. Latency Optimization Version Control Kafka UX Optimization
 Scalability A/B Testing The only way to do great work is to love what you do. Artificial Intelligence CI/CD Multi-threading JavaScript
 Do what you love and the money will follow. Sharding API Gateway Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Lambda Functions API Code Review Security Frontend IoT
+WebSockets Success is not in what you have, but who you are. Database Quantum Computing Event Sourcing Neural Networks Firewalls NLP
