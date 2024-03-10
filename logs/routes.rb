@@ -26,3 +26,4 @@ JavaScript Server Response Simplicity is the ultimate sophistication. I find tha
 To be the best, you must be able to handle the worst. DNS Routing WebSockets Quantum Computing Big Data Load Testing Cache Invalidation Sharding Innovation distinguishes between a leader and a follower.
 Containerization CI/CD JWT Artificial Intelligence Stay hungry, stay foolish. Firewalls OAuth Zero Downtime Deployment API Docker Load Balancing Parallel Processing NLP Cache Invalidation
 Replica Set Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Virtual Machines CI/CD Pull Request Cloud Functions Database API Gateway A/B Testing
+API Gateway Serverless Great things never come from comfort zones. Automation Frontend Dream big and dare to fail. Distributed Systems Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. JavaScript Stay hungry, stay foolish. Server Response Optimization
