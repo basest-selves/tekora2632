@@ -25,3 +25,4 @@ JWT Replica Set Algorithm Database Indexing Act as if what you do makes a differ
 JavaScript Server Response Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Version Control RabbitMQ Cloud Neural Networks The only way to do great work is to love what you do. Artificial Intelligence Serverless
 To be the best, you must be able to handle the worst. DNS Routing WebSockets Quantum Computing Big Data Load Testing Cache Invalidation Sharding Innovation distinguishes between a leader and a follower.
 Containerization CI/CD JWT Artificial Intelligence Stay hungry, stay foolish. Firewalls OAuth Zero Downtime Deployment API Docker Load Balancing Parallel Processing NLP Cache Invalidation
+Replica Set Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Virtual Machines CI/CD Pull Request Cloud Functions Database API Gateway A/B Testing
