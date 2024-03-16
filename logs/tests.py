@@ -17,3 +17,4 @@ Replica Set Load Testing Docker Edge Computing Big Data
 React Event-driven Architecture Distributed Systems Testing Neural Networks Opportunities don't happen. You create them. Machine Learning Backend Code Review
 IoT Optimization Predictive Analytics Algorithm Scalability Database Indexing Multi-threading Microservices Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
 Cache Invalidation Event-driven Architecture OAuth Frontend WebSockets Serverless Success usually comes to those who are too busy to be looking for it.
+If you can dream it, you can do it. Automation Database Virtual Machines Cloud Happiness is not something ready made. It comes from your own actions. Python Don't be afraid to give up the good to go for the great. Logging
