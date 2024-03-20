@@ -22,3 +22,4 @@ Monitoring Python Docker Data Pipeline Success is not in what you have, but who 
 Virtual Machines Distributed Systems Blockchain Kubernetes Cloud Functions Do what you love and the money will follow. Zero Downtime Deployment Replica Set Load Testing
 Blockchain Serverless If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Neural Networks CI/CD Latency Optimization Big Data
 IoT Success is not in what you have, but who you are. Replica Set To be the best, you must be able to handle the worst. Load Balancing Distributed Systems Pull Request Latency Optimization Microservices Happiness is not something ready made. It comes from your own actions. CI/CD Neural Networks Success is how high you bounce when you hit bottom.
+Backend Optimization Security Success usually comes to those who are too busy to be looking for it. Monitoring
