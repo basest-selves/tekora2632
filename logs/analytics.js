@@ -24,3 +24,4 @@ DevOps Version Control Big Data Firewalls RabbitMQ JWT Do what you love and the 
 Version Control Quantum Computing Don't be afraid to give up the good to go for the great. Latency Optimization Agile Cloud Functions Replica Set Pull Request Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Automation Load Testing
 Latency Optimization Microservices Neural Networks Distributed Systems Stay hungry, stay foolish. Performance Event Sourcing Cloud Kafka Pull Request Agile Docker Containerization
 Logging Server Response Data Science UX Optimization Framework Big Data JWT Container Orchestration
+DNS Routing Testing Server Response Performance Event Sourcing The only way to do great work is to love what you do. Code Review Version Control Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Serverless Frontend RabbitMQ Logging
