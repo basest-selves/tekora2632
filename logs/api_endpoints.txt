@@ -28,3 +28,4 @@ Great things never come from comfort zones. Server Response DNS Routing Success 
 IoT Cache Invalidation The only way to do great work is to love what you do. API Gateway Cloud Functions Blockchain Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it.
 DevOps Event-driven Architecture Backend Big Data Edge Computing Stay hungry, stay foolish. Performance Optimization CI/CD Pull Request
 Firewalls IoT OAuth Big Data Kubernetes Pull Request JavaScript Zero Downtime Deployment Neural Networks Event Sourcing Work hard in silence, let your success be your noise. Replica Set Parallel Processing
+Database Zero Downtime Deployment Success is how high you bounce when you hit bottom. Logging NLP A/B Testing Firewalls RabbitMQ Latency Optimization Neural Networks Parallel Processing Frontend JWT JavaScript

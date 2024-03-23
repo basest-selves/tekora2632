@@ -18,3 +18,4 @@ DevOps Distributed Systems Python Parallel Processing GraphQL Virtual Machines O
 DevOps Serverless Security Frontend Firewalls
 Algorithm Scalability The only way to do great work is to love what you do. Cloud Kubernetes Kafka Predictive Analytics Python Success is not in what you have, but who you are. DNS Routing NLP To be the best, you must be able to handle the worst. Quantum Computing Framework
 Opportunities don't happen. You create them. If you can dream it, you can do it. Database Indexing Python Optimization Cache Invalidation Dream big and dare to fail. Deployment Content Delivery Network API Gateway Logging
+Data Pipeline Do what you love and the money will follow. Code Review Predictive Analytics Success is how high you bounce when you hit bottom.
