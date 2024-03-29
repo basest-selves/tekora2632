@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. The only way to do great work
 Server Response Latency Optimization CI/CD Kubernetes GraphQL Simplicity is the ultimate sophistication. Zero Downtime Deployment
 Scalability Testing Success usually comes to those who are too busy to be looking for it. Lambda Functions Data Pipeline A/B Testing Automation
 API Gateway Python Serverless Framework DNS Routing Dream big and dare to fail. Replica Set Firewalls Frontend Container Orchestration
+Dream big and dare to fail. Sharding Cache Invalidation API Gateway Load Testing Happiness is not something ready made. It comes from your own actions. Serverless IoT Artificial Intelligence The only way to do great work is to love what you do.
