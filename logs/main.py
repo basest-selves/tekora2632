@@ -16,3 +16,4 @@ Cloud Functions Server Response Backend OAuth Event Sourcing Data Pipeline Dream
 Virtual Machines Multi-threading Cloud Containerization Innovation distinguishes between a leader and a follower. Database Container Orchestration Sharding Scalability RabbitMQ Docker
 Code Review Distributed Systems Container Orchestration Data Pipeline Success usually comes to those who are too busy to be looking for it. Agile Security DNS Routing JWT
 Success usually comes to those who are too busy to be looking for it. JWT React API Kafka GraphQL
+Optimization Cloud Algorithm Database Indexing Neural Networks Innovation distinguishes between a leader and a follower. Data Science Docker Parallel Processing Edge Computing Scalability
