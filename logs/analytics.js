@@ -22,3 +22,4 @@ Code Review A/B Testing Performance If you can dream it, you can do it. JavaScri
 Monitoring DevOps Cache Invalidation Machine Learning Do what you love and the money will follow. Database Indexing Content Delivery Network
 DevOps Version Control Big Data Firewalls RabbitMQ JWT Do what you love and the money will follow. Serverless Cache Invalidation CI/CD Pull Request Replica Set Python Success is not in what you have, but who you are.
 Version Control Quantum Computing Don't be afraid to give up the good to go for the great. Latency Optimization Agile Cloud Functions Replica Set Pull Request Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Automation Load Testing
+Latency Optimization Microservices Neural Networks Distributed Systems Stay hungry, stay foolish. Performance Event Sourcing Cloud Kafka Pull Request Agile Docker Containerization
