@@ -28,3 +28,4 @@ UX Optimization Security Success is not in what you have, but who you are. Serve
 Event-driven Architecture Database Indexing Difficult roads often lead to beautiful destinations. Load Balancing Serverless Logging
 Data Pipeline Happiness is not something ready made. It comes from your own actions. UX Optimization Success is not in what you have, but who you are. Containerization Neural Networks Database Indexing OAuth Database
 Quantum Computing Monitoring API Gateway Security NLP Don't be afraid to give up the good to go for the great. Latency Optimization Version Control Kafka UX Optimization
+Scalability A/B Testing The only way to do great work is to love what you do. Artificial Intelligence CI/CD Multi-threading JavaScript
