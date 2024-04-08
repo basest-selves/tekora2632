@@ -20,3 +20,4 @@ Cloud Functions Security Algorithm Predictive Analytics Agile Success is how hig
 I find that the harder I work, the more luck I seem to have. Database Virtual Machines Big Data If you can dream it, you can do it. Pull Request
 Logging IoT Machine Learning JavaScript If you can dream it, you can do it. RabbitMQ Server Response
 Message Queue Simplicity is the ultimate sophistication. Zero Downtime Deployment Parallel Processing Load Balancing Optimization Frontend
+Neural Networks Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Parallel Processing Replica Set Deployment Stay hungry, stay foolish.

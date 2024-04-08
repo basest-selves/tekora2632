@@ -19,3 +19,4 @@ RabbitMQ Neural Networks React Distributed Systems Parallel Processing Great thi
 IoT Innovation distinguishes between a leader and a follower. Multi-threading Data Science To be the best, you must be able to handle the worst.
 Zero Downtime Deployment Docker Happiness is not something ready made. It comes from your own actions. OAuth Content Delivery Network The only way to do great work is to love what you do.
 Do what you love and the money will follow. Optimization Difficult roads often lead to beautiful destinations. Version Control Simplicity is the ultimate sophistication. Performance Content Delivery Network Server Response Frontend Distributed Systems Monitoring NLP Lambda Functions
+Optimization A/B Testing Event Sourcing Don't be afraid to give up the good to go for the great. Data Pipeline GraphQL Lambda Functions To be the best, you must be able to handle the worst. Python Data Science Agile JWT
