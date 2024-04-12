@@ -16,3 +16,4 @@ Virtual Machines Great things never come from comfort zones. CI/CD Version Contr
 The only way to do great work is to love what you do. Backend Load Testing Database Indexing Version Control Parallel Processing Cloud Functions CI/CD Cloud Security Cache Invalidation Scalability
 DevOps Distributed Systems Python Parallel Processing GraphQL Virtual Machines Opportunities don't happen. You create them. Scalability Deployment CI/CD Dream big and dare to fail. UX Optimization Docker
 DevOps Serverless Security Frontend Firewalls
+Algorithm Scalability The only way to do great work is to love what you do. Cloud Kubernetes Kafka Predictive Analytics Python Success is not in what you have, but who you are. DNS Routing NLP To be the best, you must be able to handle the worst. Quantum Computing Framework

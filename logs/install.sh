@@ -21,3 +21,4 @@ Latency Optimization Performance JavaScript Simplicity is the ultimate sophistic
 Load Testing Stay hungry, stay foolish. Data Pipeline Automation Edge Computing Logging Microservices
 Event Sourcing I find that the harder I work, the more luck I seem to have. Scalability Do what you love and the money will follow. CI/CD Firewalls Big Data Kafka React A/B Testing Zero Downtime Deployment The only way to do great work is to love what you do. Cloud Functions RabbitMQ
 Version Control Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Logging Quantum Computing IoT Testing Performance Distributed Systems I find that the harder I work, the more luck I seem to have.
+Edge Computing Content Delivery Network Multi-threading Containerization Cache Invalidation Kafka Microservices Code Review Great things never come from comfort zones. Work hard in silence, let your success be your noise. Blockchain Replica Set API Lambda Functions
