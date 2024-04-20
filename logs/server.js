@@ -19,3 +19,4 @@ WebSockets Kubernetes Innovation distinguishes between a leader and a follower. 
 Cloud Functions Security Algorithm Predictive Analytics Agile Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Automation API Version Control Event-driven Architecture Multi-threading Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. Database Virtual Machines Big Data If you can dream it, you can do it. Pull Request
 Logging IoT Machine Learning JavaScript If you can dream it, you can do it. RabbitMQ Server Response
+Message Queue Simplicity is the ultimate sophistication. Zero Downtime Deployment Parallel Processing Load Balancing Optimization Frontend
