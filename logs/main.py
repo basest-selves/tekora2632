@@ -15,3 +15,4 @@ Backend CI/CD Content Delivery Network Stay hungry, stay foolish. Machine Learni
 Cloud Functions Server Response Backend OAuth Event Sourcing Data Pipeline Dream big and dare to fail. Pull Request
 Virtual Machines Multi-threading Cloud Containerization Innovation distinguishes between a leader and a follower. Database Container Orchestration Sharding Scalability RabbitMQ Docker
 Code Review Distributed Systems Container Orchestration Data Pipeline Success usually comes to those who are too busy to be looking for it. Agile Security DNS Routing JWT
+Success usually comes to those who are too busy to be looking for it. JWT React API Kafka GraphQL

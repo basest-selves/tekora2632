@@ -20,3 +20,4 @@ Great things never come from comfort zones. Serverless Innovation distinguishes 
 OAuth Containerization Docker Database Content Delivery Network To be the best, you must be able to handle the worst. IoT Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it.
 Do what you love and the money will follow. UX Optimization Backend Performance Cloud Functions Distributed Systems Version Control Framework Edge Computing Kafka Event-driven Architecture Code Review
 Happiness is not something ready made. It comes from your own actions. Neural Networks Don't be afraid to give up the good to go for the great. Zero Downtime Deployment The only way to do great work is to love what you do. Kubernetes Message Queue Quantum Computing Distributed Systems Edge Computing Cloud Functions Monitoring Dream big and dare to fail.
+Edge Computing IoT CI/CD Database Automation Great things never come from comfort zones. Microservices Version Control

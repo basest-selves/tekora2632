@@ -23,3 +23,4 @@ Sharding Optimization Cloud Functions Dream big and dare to fail. Load Testing P
 I find that the harder I work, the more luck I seem to have. Scalability Virtual Machines WebSockets Framework Simplicity is the ultimate sophistication. Sharding Happiness is not something ready made. It comes from your own actions.
 Cloud Functions DevOps Containerization Python Logging Multi-threading Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Optimization Machine Learning Zero Downtime Deployment
 Microservices Event-driven Architecture Frontend WebSockets UX Optimization Containerization Innovation distinguishes between a leader and a follower. Performance
+Data Science Code Review Simplicity is the ultimate sophistication. Blockchain NLP Work hard in silence, let your success be your noise. Edge Computing Quantum Computing Artificial Intelligence API IoT
