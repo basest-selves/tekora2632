@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Cloud Fun
 Microservices Content Delivery Network Data Pipeline Monitoring Predictive Analytics Do what you love and the money will follow. A/B Testing Containerization Artificial Intelligence Data Science
 DevOps CI/CD Innovation distinguishes between a leader and a follower. Content Delivery Network Sharding Server Response GraphQL Event-driven Architecture Cloud Functions Pull Request Edge Computing Monitoring Backend NLP Great things never come from comfort zones.
 UX Optimization DNS Routing WebSockets Content Delivery Network Act as if what you do makes a difference. It does.
+Kafka Database Indexing Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Big Data Zero Downtime Deployment Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Machine Learning
