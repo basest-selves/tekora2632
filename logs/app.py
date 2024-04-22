@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. UX Optimization Algorithm Optimizatio
 JWT Work hard in silence, let your success be your noise. Container Orchestration Deployment WebSockets Firewalls React Pull Request Logging
 RabbitMQ Neural Networks React Distributed Systems Parallel Processing Great things never come from comfort zones. Monitoring Edge Computing I find that the harder I work, the more luck I seem to have. Database Indexing Security Zero Downtime Deployment Stay hungry, stay foolish.
 IoT Innovation distinguishes between a leader and a follower. Multi-threading Data Science To be the best, you must be able to handle the worst.
+Zero Downtime Deployment Docker Happiness is not something ready made. It comes from your own actions. OAuth Content Delivery Network The only way to do great work is to love what you do.
