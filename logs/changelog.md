@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. Load Balancing Cont
 UX Optimization Success is not in what you have, but who you are. Multi-threading Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline Load Testing Innovation distinguishes between a leader and a follower. Distributed Systems Success usually comes to those who are too busy to be looking for it. Scalability
 Virtual Machines Great things never come from comfort zones. CI/CD Version Control Multi-threading Zero Downtime Deployment
 The only way to do great work is to love what you do. Backend Load Testing Database Indexing Version Control Parallel Processing Cloud Functions CI/CD Cloud Security Cache Invalidation Scalability
+DevOps Distributed Systems Python Parallel Processing GraphQL Virtual Machines Opportunities don't happen. You create them. Scalability Deployment CI/CD Dream big and dare to fail. UX Optimization Docker
