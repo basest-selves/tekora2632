@@ -14,3 +14,4 @@ Load Balancing A/B Testing Distributed Systems Happiness is not something ready 
 Backend CI/CD Content Delivery Network Stay hungry, stay foolish. Machine Learning Act as if what you do makes a difference. It does.
 Cloud Functions Server Response Backend OAuth Event Sourcing Data Pipeline Dream big and dare to fail. Pull Request
 Virtual Machines Multi-threading Cloud Containerization Innovation distinguishes between a leader and a follower. Database Container Orchestration Sharding Scalability RabbitMQ Docker
+Code Review Distributed Systems Container Orchestration Data Pipeline Success usually comes to those who are too busy to be looking for it. Agile Security DNS Routing JWT

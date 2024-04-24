@@ -19,3 +19,4 @@ Neural Networks Sharding API Gateway CI/CD Success is not in what you have, but 
 Lambda Functions Load Balancing Microservices NLP Deployment Monitoring Replica Set Framework API Sharding To be the best, you must be able to handle the worst. Parallel Processing Data Science Zero Downtime Deployment
 Latency Optimization Performance JavaScript Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Predictive Analytics To be the best, you must be able to handle the worst. Code Review Success is not in what you have, but who you are.
 Load Testing Stay hungry, stay foolish. Data Pipeline Automation Edge Computing Logging Microservices
+Event Sourcing I find that the harder I work, the more luck I seem to have. Scalability Do what you love and the money will follow. CI/CD Firewalls Big Data Kafka React A/B Testing Zero Downtime Deployment The only way to do great work is to love what you do. Cloud Functions RabbitMQ
