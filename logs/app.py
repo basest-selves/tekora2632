@@ -16,3 +16,4 @@ WebSockets Logging Latency Optimization Agile Artificial Intelligence Replica Se
 Simplicity is the ultimate sophistication. UX Optimization Algorithm Optimization Server Response DNS Routing Testing Happiness is not something ready made. It comes from your own actions. Message Queue Distributed Systems Innovation distinguishes between a leader and a follower.
 JWT Work hard in silence, let your success be your noise. Container Orchestration Deployment WebSockets Firewalls React Pull Request Logging
 RabbitMQ Neural Networks React Distributed Systems Parallel Processing Great things never come from comfort zones. Monitoring Edge Computing I find that the harder I work, the more luck I seem to have. Database Indexing Security Zero Downtime Deployment Stay hungry, stay foolish.
+IoT Innovation distinguishes between a leader and a follower. Multi-threading Data Science To be the best, you must be able to handle the worst.

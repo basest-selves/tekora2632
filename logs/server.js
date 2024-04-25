@@ -18,3 +18,4 @@ Version Control Quantum Computing API If you can dream it, you can do it. The on
 WebSockets Kubernetes Innovation distinguishes between a leader and a follower. Edge Computing Version Control Container Orchestration Cloud Optimization Big Data API Gateway Act as if what you do makes a difference. It does. RabbitMQ
 Cloud Functions Security Algorithm Predictive Analytics Agile Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Automation API Version Control Event-driven Architecture Multi-threading Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. Database Virtual Machines Big Data If you can dream it, you can do it. Pull Request
+Logging IoT Machine Learning JavaScript If you can dream it, you can do it. RabbitMQ Server Response
