@@ -18,3 +18,4 @@ If you can dream it, you can do it. Docker Server Response Machine Learning JWT
 Neural Networks Sharding API Gateway CI/CD Success is not in what you have, but who you are. Artificial Intelligence
 Lambda Functions Load Balancing Microservices NLP Deployment Monitoring Replica Set Framework API Sharding To be the best, you must be able to handle the worst. Parallel Processing Data Science Zero Downtime Deployment
 Latency Optimization Performance JavaScript Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Predictive Analytics To be the best, you must be able to handle the worst. Code Review Success is not in what you have, but who you are.
+Load Testing Stay hungry, stay foolish. Data Pipeline Automation Edge Computing Logging Microservices

@@ -19,3 +19,4 @@ The only way to do great work is to love what you do. Big Data Opportunities don
 Success doesn’t just find you. You have to go out and get it. Firewalls Cache Invalidation Message Queue Scalability Success is not in what you have, but who you are. Monitoring React API Gateway Blockchain Distributed Systems Simplicity is the ultimate sophistication. Multi-threading To be the best, you must be able to handle the worst.
 Big Data Stay hungry, stay foolish. Do what you love and the money will follow. Version Control React Kubernetes Framework Virtual Machines Algorithm Python A/B Testing Parallel Processing
 Code Review A/B Testing Performance If you can dream it, you can do it. JavaScript Logging Sharding DNS Routing Machine Learning Success doesn’t just find you. You have to go out and get it.
+Monitoring DevOps Cache Invalidation Machine Learning Do what you love and the money will follow. Database Indexing Content Delivery Network
