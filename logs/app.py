@@ -14,3 +14,4 @@ Framework Server Response Testing Container Orchestration Success usually comes 
 Stay hungry, stay foolish. Success is not in what you have, but who you are. OAuth Optimization Neural Networks Act as if what you do makes a difference. It does.
 WebSockets Logging Latency Optimization Agile Artificial Intelligence Replica Set Microservices Algorithm Load Balancing Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Blockchain GraphQL Cache Invalidation
 Simplicity is the ultimate sophistication. UX Optimization Algorithm Optimization Server Response DNS Routing Testing Happiness is not something ready made. It comes from your own actions. Message Queue Distributed Systems Innovation distinguishes between a leader and a follower.
+JWT Work hard in silence, let your success be your noise. Container Orchestration Deployment WebSockets Firewalls React Pull Request Logging
