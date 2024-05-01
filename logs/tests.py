@@ -15,3 +15,4 @@ Success usually comes to those who are too busy to be looking for it. API Gatewa
 Dream big and dare to fail. Agile Replica Set Virtual Machines Opportunities don't happen. You create them. Sharding Performance GraphQL Innovation distinguishes between a leader and a follower. Kafka
 Replica Set Load Testing Docker Edge Computing Big Data
 React Event-driven Architecture Distributed Systems Testing Neural Networks Opportunities don't happen. You create them. Machine Learning Backend Code Review
+IoT Optimization Predictive Analytics Algorithm Scalability Database Indexing Multi-threading Microservices Success is how high you bounce when you hit bottom. Do what you love and the money will follow.

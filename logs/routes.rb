@@ -21,3 +21,4 @@ RabbitMQ Happiness is not something ready made. It comes from your own actions. 
 IoT Security I find that the harder I work, the more luck I seem to have. Python Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. React Cloud Functions
 Predictive Analytics Server Response Happiness is not something ready made. It comes from your own actions. Load Testing Event Sourcing Scalability Success usually comes to those who are too busy to be looking for it. NLP Pull Request
 API Gateway Microservices Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Cloud Opportunities don't happen. You create them. Event Sourcing
+JWT Replica Set Algorithm Database Indexing Act as if what you do makes a difference. It does. Scalability Performance Predictive Analytics Machine Learning

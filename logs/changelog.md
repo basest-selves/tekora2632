@@ -12,3 +12,4 @@ Content Delivery Network Stay hungry, stay foolish. Sharding If you can dream it
 Stay hungry, stay foolish. API Gateway Event-driven Architecture Security Dream big and dare to fail. Python Virtual Machines CI/CD JWT
 I find that the harder I work, the more luck I seem to have. Load Balancing Container Orchestration Don't be afraid to give up the good to go for the great. Scalability Lambda Functions Serverless
 UX Optimization Success is not in what you have, but who you are. Multi-threading Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline Load Testing Innovation distinguishes between a leader and a follower. Distributed Systems Success usually comes to those who are too busy to be looking for it. Scalability
+Virtual Machines Great things never come from comfort zones. CI/CD Version Control Multi-threading Zero Downtime Deployment
