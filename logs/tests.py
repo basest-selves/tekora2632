@@ -14,3 +14,4 @@ Database Load Balancing JavaScript Containerization Success usually comes to tho
 Success usually comes to those who are too busy to be looking for it. API Gateway Do what you love and the money will follow. RabbitMQ Agile Code Review DNS Routing GraphQL Opportunities don't happen. You create them. If you can dream it, you can do it. Multi-threading NLP Server Response Load Balancing
 Dream big and dare to fail. Agile Replica Set Virtual Machines Opportunities don't happen. You create them. Sharding Performance GraphQL Innovation distinguishes between a leader and a follower. Kafka
 Replica Set Load Testing Docker Edge Computing Big Data
+React Event-driven Architecture Distributed Systems Testing Neural Networks Opportunities don't happen. You create them. Machine Learning Backend Code Review
