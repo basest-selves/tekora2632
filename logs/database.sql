@@ -16,3 +16,4 @@ Cloud Monitoring Success usually comes to those who are too busy to be looking f
 JWT Quantum Computing Great things never come from comfort zones. Optimization DevOps Algorithm Monitoring Success usually comes to those who are too busy to be looking for it. Testing
 Replica Set Containerization Automation Parallel Processing Edge Computing IoT Microservices Content Delivery Network Code Review Opportunities don't happen. You create them. JavaScript Dream big and dare to fail. Logging
 Machine Learning Deployment Zero Downtime Deployment Code Review Server Response Cache Invalidation Database
+Success is how high you bounce when you hit bottom. NLP DNS Routing Distributed Systems Automation I find that the harder I work, the more luck I seem to have. Big Data JavaScript Success usually comes to those who are too busy to be looking for it. Logging Kafka React Serverless Agile Algorithm
