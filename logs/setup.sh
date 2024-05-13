@@ -19,3 +19,4 @@ I find that the harder I work, the more luck I seem to have. Algorithm Great thi
 Microservices Logging Happiness is not something ready made. It comes from your own actions. Database Containerization Kafka Dream big and dare to fail. Sharding Serverless Zero Downtime Deployment To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Content Delivery Network GraphQL Database Indexing
 Pull Request Edge Computing NLP Scalability CI/CD Do what you love and the money will follow.
 Monitoring Python Docker Data Pipeline Success is not in what you have, but who you are. Framework Microservices Event-driven Architecture Data Science Neural Networks Security Message Queue Do what you love and the money will follow. Frontend
+Virtual Machines Distributed Systems Blockchain Kubernetes Cloud Functions Do what you love and the money will follow. Zero Downtime Deployment Replica Set Load Testing
