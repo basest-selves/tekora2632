@@ -13,3 +13,4 @@ Python JavaScript OAuth Agile IoT Work hard in silence, let your success be your
 Load Balancing A/B Testing Distributed Systems Happiness is not something ready made. It comes from your own actions. JWT Event Sourcing Data Science Server Response Don't be afraid to give up the good to go for the great. Kafka Monitoring
 Backend CI/CD Content Delivery Network Stay hungry, stay foolish. Machine Learning Act as if what you do makes a difference. It does.
 Cloud Functions Server Response Backend OAuth Event Sourcing Data Pipeline Dream big and dare to fail. Pull Request
+Virtual Machines Multi-threading Cloud Containerization Innovation distinguishes between a leader and a follower. Database Container Orchestration Sharding Scalability RabbitMQ Docker
