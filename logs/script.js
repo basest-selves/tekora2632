@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Load Balancing Kubernetes 
 Event-driven Architecture Container Orchestration Microservices Optimization Zero Downtime Deployment Neural Networks JavaScript React Docker DNS Routing Deployment Python Security Quantum Computing
 Content Delivery Network OAuth Happiness is not something ready made. It comes from your own actions. Serverless Performance
 Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Content Delivery Network Latency Optimization Multi-threading To be the best, you must be able to handle the worst. Event Sourcing Performance IoT
+Server Response Latency Optimization CI/CD Kubernetes GraphQL Simplicity is the ultimate sophistication. Zero Downtime Deployment
