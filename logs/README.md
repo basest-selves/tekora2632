@@ -18,3 +18,4 @@ Pull Request Monitoring Database RabbitMQ Happiness is not something ready made.
 Cloud Do what you love and the money will follow. JWT Framework Logging Blockchain Backend Event Sourcing Parallel Processing Latency Optimization Great things never come from comfort zones.
 Great things never come from comfort zones. Serverless Innovation distinguishes between a leader and a follower. Server Response JavaScript Firewalls WebSockets Optimization Backend Container Orchestration
 OAuth Containerization Docker Database Content Delivery Network To be the best, you must be able to handle the worst. IoT Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it.
+Do what you love and the money will follow. UX Optimization Backend Performance Cloud Functions Distributed Systems Version Control Framework Edge Computing Kafka Event-driven Architecture Code Review

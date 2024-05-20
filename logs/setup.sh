@@ -17,3 +17,4 @@ Lambda Functions Database API Gateway Do what you love and the money will follow
 DNS Routing JWT Security Framework Python Neural Networks Data Pipeline I find that the harder I work, the more luck I seem to have. Backend Cloud Functions CI/CD Version Control Performance Artificial Intelligence
 I find that the harder I work, the more luck I seem to have. Algorithm Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Quantum Computing Version Control Security Agile Scalability Dream big and dare to fail.
 Microservices Logging Happiness is not something ready made. It comes from your own actions. Database Containerization Kafka Dream big and dare to fail. Sharding Serverless Zero Downtime Deployment To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Content Delivery Network GraphQL Database Indexing
+Pull Request Edge Computing NLP Scalability CI/CD Do what you love and the money will follow.
