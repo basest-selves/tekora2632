@@ -20,3 +20,4 @@ Opportunities don't happen. You create them. Act as if what you do makes a diffe
 Lambda Functions The only way to do great work is to love what you do. Dream big and dare to fail. Logging Code Review
 Zero Downtime Deployment Sharding UX Optimization Blockchain Version Control Quantum Computing If you can dream it, you can do it. Act as if what you do makes a difference. It does.
 Sharding Optimization Cloud Functions Dream big and dare to fail. Load Testing Pull Request OAuth Agile Multi-threading Database Success usually comes to those who are too busy to be looking for it. RabbitMQ GraphQL Parallel Processing
+I find that the harder I work, the more luck I seem to have. Scalability Virtual Machines WebSockets Framework Simplicity is the ultimate sophistication. Sharding Happiness is not something ready made. It comes from your own actions.
