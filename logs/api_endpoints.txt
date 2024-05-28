@@ -26,3 +26,4 @@ Container Orchestration Data Science API Gateway Kubernetes Load Balancing Don't
 Performance RabbitMQ Load Testing Cloud Functions Code Review Database Cloud Monitoring Work hard in silence, let your success be your noise. If you can dream it, you can do it. Lambda Functions Success is how high you bounce when you hit bottom.
 Great things never come from comfort zones. Server Response DNS Routing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great.
 IoT Cache Invalidation The only way to do great work is to love what you do. API Gateway Cloud Functions Blockchain Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it.
+DevOps Event-driven Architecture Backend Big Data Edge Computing Stay hungry, stay foolish. Performance Optimization CI/CD Pull Request
