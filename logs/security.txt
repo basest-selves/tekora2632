@@ -17,3 +17,4 @@ Great things never come from comfort zones. Container Orchestration React API Ga
 Data Pipeline Do what you love and the money will follow. Dream big and dare to fail. Neural Networks Docker Cloud Functions
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Event-driven Architecture Database Framework Kubernetes Zero Downtime Deployment
 Microservices Content Delivery Network Data Pipeline Monitoring Predictive Analytics Do what you love and the money will follow. A/B Testing Containerization Artificial Intelligence Data Science
+DevOps CI/CD Innovation distinguishes between a leader and a follower. Content Delivery Network Sharding Server Response GraphQL Event-driven Architecture Cloud Functions Pull Request Edge Computing Monitoring Backend NLP Great things never come from comfort zones.
