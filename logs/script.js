@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Data Pipeline Zero Dow
 Work hard in silence, let your success be your noise. Load Balancing Kubernetes Quantum Computing Python Predictive Analytics Parallel Processing Message Queue Blockchain Stay hungry, stay foolish. IoT Scalability Artificial Intelligence Code Review Distributed Systems
 Event-driven Architecture Container Orchestration Microservices Optimization Zero Downtime Deployment Neural Networks JavaScript React Docker DNS Routing Deployment Python Security Quantum Computing
 Content Delivery Network OAuth Happiness is not something ready made. It comes from your own actions. Serverless Performance
+Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Content Delivery Network Latency Optimization Multi-threading To be the best, you must be able to handle the worst. Event Sourcing Performance IoT
