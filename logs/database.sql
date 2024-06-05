@@ -15,3 +15,4 @@ Work hard in silence, let your success be your noise. Kubernetes Event-driven Ar
 Cloud Monitoring Success usually comes to those who are too busy to be looking for it. Code Review Great things never come from comfort zones. Neural Networks Database Indexing Don't be afraid to give up the good to go for the great.
 JWT Quantum Computing Great things never come from comfort zones. Optimization DevOps Algorithm Monitoring Success usually comes to those who are too busy to be looking for it. Testing
 Replica Set Containerization Automation Parallel Processing Edge Computing IoT Microservices Content Delivery Network Code Review Opportunities don't happen. You create them. JavaScript Dream big and dare to fail. Logging
+Machine Learning Deployment Zero Downtime Deployment Code Review Server Response Cache Invalidation Database

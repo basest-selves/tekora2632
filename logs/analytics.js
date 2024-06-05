@@ -14,3 +14,4 @@ Kafka Don't be afraid to give up the good to go for the great. Machine Learning 
 Big Data Don't be afraid to give up the good to go for the great. Edge Computing UX Optimization Machine Learning Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Performance
 Data Science Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Docker Agile Great things never come from comfort zones. NLP Event-driven Architecture Framework Performance Deployment
 Happiness is not something ready made. It comes from your own actions. Machine Learning Version Control Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Microservices Security Backend Algorithm Code Review
+Lambda Functions React Frontend GraphQL Scalability
