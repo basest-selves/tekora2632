@@ -13,3 +13,4 @@ NLP Optimization Firewalls Edge Computing Scalability Zero Downtime Deployment L
 Firewalls Testing Act as if what you do makes a difference. It does. Data Pipeline Frontend RabbitMQ
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. API Monitoring DNS Routing Data Science JavaScript Success is how high you bounce when you hit bottom. Edge Computing Container Orchestration
 Event Sourcing Happiness is not something ready made. It comes from your own actions. Backend NLP Machine Learning A/B Testing Framework
+Cloud Functions OAuth Event Sourcing Virtual Machines Edge Computing Stay hungry, stay foolish. Zero Downtime Deployment Act as if what you do makes a difference. It does. Cache Invalidation Algorithm Kafka Load Testing Data Science Don't be afraid to give up the good to go for the great.
