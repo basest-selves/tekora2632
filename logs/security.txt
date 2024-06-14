@@ -16,3 +16,4 @@ Big Data Lambda Functions DNS Routing JWT Container Orchestration Kafka Python P
 Great things never come from comfort zones. Container Orchestration React API Gateway Agile Security If you can dream it, you can do it. A/B Testing Docker Cloud Blockchain IoT Database Distributed Systems Serverless
 Data Pipeline Do what you love and the money will follow. Dream big and dare to fail. Neural Networks Docker Cloud Functions
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Event-driven Architecture Database Framework Kubernetes Zero Downtime Deployment
+Microservices Content Delivery Network Data Pipeline Monitoring Predictive Analytics Do what you love and the money will follow. A/B Testing Containerization Artificial Intelligence Data Science
