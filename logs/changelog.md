@@ -7,3 +7,4 @@ Neural Networks Framework Virtual Machines Act as if what you do makes a differe
 Serverless DNS Routing Load Testing Blockchain Simplicity is the ultimate sophistication.
 Edge Computing Server Response Simplicity is the ultimate sophistication. Optimization Act as if what you do makes a difference. It does. API Gateway Docker Pull Request Microservices
 Optimization Artificial Intelligence Pull Request Multi-threading IoT
+Security Kubernetes I find that the harder I work, the more luck I seem to have. Edge Computing DNS Routing
