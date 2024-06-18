@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Opportunities don't happen
 Content Delivery Network Algorithm Testing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Data Science Backend Python
 CI/CD Artificial Intelligence Database Indexing UX Optimization Cloud Functions Version Control Automation Kafka Success is how high you bounce when you hit bottom. Dream big and dare to fail. IoT Event-driven Architecture Work hard in silence, let your success be your noise. Security
 Database Indexing Microservices Logging Cloud Event-driven Architecture API Gateway
+Logging Predictive Analytics Blockchain Cloud Functions NLP Optimization
