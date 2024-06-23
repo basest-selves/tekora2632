@@ -14,3 +14,4 @@ API Kafka Big Data Cache Invalidation Docker GraphQL API Gateway Backend
 Docker Virtual Machines Big Data Cache Invalidation Frontend Optimization Python
 Parallel Processing Framework Success is not in what you have, but who you are. Performance Microservices Kafka
 Lambda Functions Database API Gateway Do what you love and the money will follow. Logging Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
+DNS Routing JWT Security Framework Python Neural Networks Data Pipeline I find that the harder I work, the more luck I seem to have. Backend Cloud Functions CI/CD Version Control Performance Artificial Intelligence
