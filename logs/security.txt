@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. Serverless Artificial Inte
 Python Latency Optimization Do what you love and the money will follow. Lambda Functions Scalability To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Backend Big Data Difficult roads often lead to beautiful destinations. UX Optimization I find that the harder I work, the more luck I seem to have.
 Big Data Lambda Functions DNS Routing JWT Container Orchestration Kafka Python Predictive Analytics CI/CD Containerization Data Science Opportunities don't happen. You create them. API
 Great things never come from comfort zones. Container Orchestration React API Gateway Agile Security If you can dream it, you can do it. A/B Testing Docker Cloud Blockchain IoT Database Distributed Systems Serverless
+Data Pipeline Do what you love and the money will follow. Dream big and dare to fail. Neural Networks Docker Cloud Functions
