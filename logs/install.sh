@@ -15,3 +15,4 @@ Deployment Edge Computing Distributed Systems Containerization Cloud Cloud Funct
 Data Pipeline Load Testing Sharding OAuth Replica Set WebSockets Docker Algorithm Multi-threading Do what you love and the money will follow. GraphQL The only way to do great work is to love what you do. Cloud Agile
 Algorithm Machine Learning Container Orchestration DNS Routing Event-driven Architecture Serverless Server Response Predictive Analytics Optimization Content Delivery Network Distributed Systems Happiness is not something ready made. It comes from your own actions. Logging Message Queue Frontend
 If you can dream it, you can do it. Docker Server Response Machine Learning JWT
+Neural Networks Sharding API Gateway CI/CD Success is not in what you have, but who you are. Artificial Intelligence
