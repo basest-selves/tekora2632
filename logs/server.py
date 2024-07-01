@@ -10,3 +10,4 @@ Load Balancing IoT Optimization Stay hungry, stay foolish. Virtual Machines Bloc
 Testing Virtual Machines Python Opportunities don't happen. You create them. Backend Algorithm Containerization
 Latency Optimization Container Orchestration Multi-threading API Gateway Cache Invalidation Load Testing Data Pipeline Scalability
 Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Artificial Intelligence Microservices IoT Docker Performance Distributed Systems Monitoring
+Content Delivery Network Algorithm Testing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Data Science Backend Python
