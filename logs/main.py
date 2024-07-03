@@ -9,3 +9,4 @@ Big Data Success is how high you bounce when you hit bottom. Happiness is not so
 Cache Invalidation API The only way to do great work is to love what you do. Machine Learning Opportunities don't happen. You create them. IoT React Kafka
 Deployment Quantum Computing Don't be afraid to give up the good to go for the great. Scalability Predictive Analytics Serverless I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
 Success usually comes to those who are too busy to be looking for it. A/B Testing Dream big and dare to fail. Opportunities don't happen. You create them. Server Response Framework
+Python JavaScript OAuth Agile IoT Work hard in silence, let your success be your noise. Data Science API A/B Testing Load Balancing Dream big and dare to fail. Do what you love and the money will follow. Lambda Functions
