@@ -8,3 +8,4 @@ Server Response NLP Backend Containerization Multi-threading Act as if what you 
 Big Data Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. A/B Testing Cloud If you can dream it, you can do it. Machine Learning Neural Networks JWT Parallel Processing DNS Routing
 Cache Invalidation API The only way to do great work is to love what you do. Machine Learning Opportunities don't happen. You create them. IoT React Kafka
 Deployment Quantum Computing Don't be afraid to give up the good to go for the great. Scalability Predictive Analytics Serverless I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
+Success usually comes to those who are too busy to be looking for it. A/B Testing Dream big and dare to fail. Opportunities don't happen. You create them. Server Response Framework
