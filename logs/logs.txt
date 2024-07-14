@@ -13,3 +13,4 @@ Load Testing Virtual Machines Serverless Content Delivery Network Database If yo
 Quantum Computing Parallel Processing Load Balancing Work hard in silence, let your success be your noise. DNS Routing Predictive Analytics Simplicity is the ultimate sophistication. API JWT Database Indexing
 Do what you love and the money will follow. Cloud Scalability Dream big and dare to fail. Logging
 CI/CD Pull Request Microservices Load Balancing NLP
+Framework Machine Learning Virtual Machines Database Indexing If you can dream it, you can do it. Predictive Analytics
