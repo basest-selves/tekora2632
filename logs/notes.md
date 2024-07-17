@@ -19,3 +19,4 @@ Python The only way to do great work is to love what you do. OAuth Quantum Compu
 Edge Computing Content Delivery Network Virtual Machines Optimization Simplicity is the ultimate sophistication. Load Testing Algorithm
 OAuth API Gateway Blockchain Docker Cloud Functions Success usually comes to those who are too busy to be looking for it. IoT Kubernetes Success doesn’t just find you. You have to go out and get it. Quantum Computing
 Framework Multi-threading Backend JWT Monitoring Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Edge Computing Version Control
+Virtual Machines Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Monitoring NLP Pull Request API Gateway Message Queue

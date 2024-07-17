@@ -11,3 +11,4 @@ Database Indexing Data Pipeline DevOps GraphQL Logging Blockchain Serverless Bac
 Backend Database Latency Optimization To be the best, you must be able to handle the worst. DevOps Success is not in what you have, but who you are. Opportunities don't happen. You create them. Containerization Kubernetes Happiness is not something ready made. It comes from your own actions. GraphQL
 React Don't be afraid to give up the good to go for the great. Agile JavaScript Cloud
 CI/CD Framework JWT Load Balancing Containerization NLP Act as if what you do makes a difference. It does. IoT Microservices Security DNS Routing Python Serverless
+Containerization Optimization Simplicity is the ultimate sophistication. Cache Invalidation Agile Microservices The only way to do great work is to love what you do. CI/CD JWT Cloud Zero Downtime Deployment
