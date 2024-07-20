@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Firewalls 
 Kubernetes Multi-threading Frontend Virtual Machines Replica Set
 API Kafka Big Data Cache Invalidation Docker GraphQL API Gateway Backend
 Docker Virtual Machines Big Data Cache Invalidation Frontend Optimization Python
+Parallel Processing Framework Success is not in what you have, but who you are. Performance Microservices Kafka
