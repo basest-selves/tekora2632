@@ -11,3 +11,4 @@ Logging Sharding Difficult roads often lead to beautiful destinations. Opportuni
 Latency Optimization Python Neural Networks Frontend Firewalls DevOps Version Control Kubernetes UX Optimization
 Success usually comes to those who are too busy to be looking for it. Lambda Functions API Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Agile Virtual Machines Load Balancing Don't be afraid to give up the good to go for the great. Database Indexing Load Testing Stay hungry, stay foolish.
 Kafka Don't be afraid to give up the good to go for the great. Machine Learning JavaScript Pull Request Stay hungry, stay foolish. A/B Testing
+Big Data Don't be afraid to give up the good to go for the great. Edge Computing UX Optimization Machine Learning Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Performance

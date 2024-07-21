@@ -13,3 +13,4 @@ Performance Innovation distinguishes between a leader and a follower. Database W
 Replica Set Server Response Great things never come from comfort zones. Kafka Event-driven Architecture
 Deployment Edge Computing Distributed Systems Containerization Cloud Cloud Functions
 Data Pipeline Load Testing Sharding OAuth Replica Set WebSockets Docker Algorithm Multi-threading Do what you love and the money will follow. GraphQL The only way to do great work is to love what you do. Cloud Agile
+Algorithm Machine Learning Container Orchestration DNS Routing Event-driven Architecture Serverless Server Response Predictive Analytics Optimization Content Delivery Network Distributed Systems Happiness is not something ready made. It comes from your own actions. Logging Message Queue Frontend
