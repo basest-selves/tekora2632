@@ -4,3 +4,4 @@ WebSockets Agile Load Testing Happiness is not something ready made. It comes fr
 Database Indexing Success is how high you bounce when you hit bottom. Great things never come from comfort zones. If you can dream it, you can do it. Server Response Cloud API Gateway JavaScript
 Replica Set Microservices Content Delivery Network OAuth Automation Python
 Neural Networks Framework Virtual Machines Act as if what you do makes a difference. It does. Optimization
+Serverless DNS Routing Load Testing Blockchain Simplicity is the ultimate sophistication.
