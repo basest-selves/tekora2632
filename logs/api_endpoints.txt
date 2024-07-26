@@ -17,3 +17,4 @@ JWT Virtual Machines Difficult roads often lead to beautiful destinations. Testi
 Performance Microservices Predictive Analytics Pull Request Quantum Computing Serverless Message Queue Database Indexing Automation Artificial Intelligence IoT GraphQL
 Big Data Cloud Functions Neural Networks Testing Backend DevOps Data Science Predictive Analytics Sharding
 Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Pull Request Distributed Systems Data Science Optimization Database Multi-threading Frontend Don't be afraid to give up the good to go for the great. React Kubernetes GraphQL Sharding Security
+Success usually comes to those who are too busy to be looking for it. A/B Testing Deployment IoT The only way to do great work is to love what you do. Kubernetes Do what you love and the money will follow. Serverless Message Queue Framework
