@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. API Gateway Replica Set
 If you can dream it, you can do it. API Kafka I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Event-driven Architecture
 Performance Innovation distinguishes between a leader and a follower. Database Work hard in silence, let your success be your noise. Firewalls Monitoring JWT Load Balancing Automation GraphQL A/B Testing Optimization UX Optimization Algorithm
 Replica Set Server Response Great things never come from comfort zones. Kafka Event-driven Architecture
+Deployment Edge Computing Distributed Systems Containerization Cloud Cloud Functions
