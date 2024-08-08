@@ -16,3 +16,4 @@ Big Data Database Indexing If you can dream it, you can do it. Automation Algori
 JWT Virtual Machines Difficult roads often lead to beautiful destinations. Testing Framework GraphQL Event-driven Architecture Machine Learning CI/CD Scalability Great things never come from comfort zones.
 Performance Microservices Predictive Analytics Pull Request Quantum Computing Serverless Message Queue Database Indexing Automation Artificial Intelligence IoT GraphQL
 Big Data Cloud Functions Neural Networks Testing Backend DevOps Data Science Predictive Analytics Sharding
+Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Pull Request Distributed Systems Data Science Optimization Database Multi-threading Frontend Don't be afraid to give up the good to go for the great. React Kubernetes GraphQL Sharding Security
