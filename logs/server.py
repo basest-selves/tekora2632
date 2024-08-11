@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. If you can dream it
 Replica Set Event-driven Architecture Cache Invalidation Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Containerization
 Kafka Database Indexing Dream big and dare to fail. JWT Predictive Analytics JavaScript Event Sourcing
 Microservices Scalability WebSockets DevOps Innovation distinguishes between a leader and a follower. JavaScript Automation Dream big and dare to fail. Virtual Machines Agile I find that the harder I work, the more luck I seem to have. Artificial Intelligence A/B Testing Framework Great things never come from comfort zones.
+Blockchain Kubernetes JWT Frontend Code Review Success is how high you bounce when you hit bottom. JavaScript Monitoring

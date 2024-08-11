@@ -12,3 +12,4 @@ Quantum Computing Edge Computing JWT Agile API Gateway
 NLP Optimization Firewalls Edge Computing Scalability Zero Downtime Deployment Load Balancing If you can dream it, you can do it. Server Response Predictive Analytics
 Firewalls Testing Act as if what you do makes a difference. It does. Data Pipeline Frontend RabbitMQ
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. API Monitoring DNS Routing Data Science JavaScript Success is how high you bounce when you hit bottom. Edge Computing Container Orchestration
+Event Sourcing Happiness is not something ready made. It comes from your own actions. Backend NLP Machine Learning A/B Testing Framework
