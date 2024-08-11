@@ -11,3 +11,4 @@ Deployment Firewalls Server Response Load Balancing Don't be afraid to give up t
 Success usually comes to those who are too busy to be looking for it. Firewalls Edge Computing Happiness is not something ready made. It comes from your own actions. Serverless
 Kubernetes Multi-threading Frontend Virtual Machines Replica Set
 API Kafka Big Data Cache Invalidation Docker GraphQL API Gateway Backend
+Docker Virtual Machines Big Data Cache Invalidation Frontend Optimization Python
