@@ -9,3 +9,4 @@ API Gateway Frontend Zero Downtime Deployment Difficult roads often lead to beau
 Monitoring Security Content Delivery Network Machine Learning Work hard in silence, let your success be your noise. Latency Optimization Cloud Functions Success usually comes to those who are too busy to be looking for it. Backend
 Deployment Firewalls Server Response Load Balancing Don't be afraid to give up the good to go for the great. Docker Message Queue Backend
 Success usually comes to those who are too busy to be looking for it. Firewalls Edge Computing Happiness is not something ready made. It comes from your own actions. Serverless
+Kubernetes Multi-threading Frontend Virtual Machines Replica Set
