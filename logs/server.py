@@ -4,3 +4,4 @@ OAuth Firewalls Content Delivery Network Load Testing Monitoring Cloud Performan
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Event Sourcing Load Balancing GraphQL Machine Learning Containerization Python
 Replica Set Event-driven Architecture Cache Invalidation Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Containerization
 Kafka Database Indexing Dream big and dare to fail. JWT Predictive Analytics JavaScript Event Sourcing
+Microservices Scalability WebSockets DevOps Innovation distinguishes between a leader and a follower. JavaScript Automation Dream big and dare to fail. Virtual Machines Agile I find that the harder I work, the more luck I seem to have. Artificial Intelligence A/B Testing Framework Great things never come from comfort zones.
