@@ -15,3 +15,4 @@ Testing Distributed Systems Zero Downtime Deployment GraphQL Event Sourcing Micr
 Version Control Performance If you can dream it, you can do it. Multi-threading Monitoring Sharding React Act as if what you do makes a difference. It does. Firewalls Simplicity is the ultimate sophistication. Algorithm
 Server Response Docker I find that the harder I work, the more luck I seem to have. Event-driven Architecture API
 Happiness is not something ready made. It comes from your own actions. Microservices Blockchain JWT Version Control Predictive Analytics GraphQL I find that the harder I work, the more luck I seem to have. Frontend Multi-threading WebSockets Security UX Optimization Performance Content Delivery Network
+Python The only way to do great work is to love what you do. OAuth Quantum Computing Load Balancing To be the best, you must be able to handle the worst. Replica Set Security Monitoring Code Review Content Delivery Network
