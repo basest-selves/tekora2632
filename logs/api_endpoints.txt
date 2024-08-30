@@ -15,3 +15,4 @@ Microservices Containerization Opportunities don't happen. You create them. Code
 Big Data Database Indexing If you can dream it, you can do it. Automation Algorithm Docker JavaScript Framework
 JWT Virtual Machines Difficult roads often lead to beautiful destinations. Testing Framework GraphQL Event-driven Architecture Machine Learning CI/CD Scalability Great things never come from comfort zones.
 Performance Microservices Predictive Analytics Pull Request Quantum Computing Serverless Message Queue Database Indexing Automation Artificial Intelligence IoT GraphQL
+Big Data Cloud Functions Neural Networks Testing Backend DevOps Data Science Predictive Analytics Sharding

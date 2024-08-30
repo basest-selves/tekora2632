@@ -14,3 +14,4 @@ RabbitMQ Do what you love and the money will follow. Load Balancing Great things
 Testing Distributed Systems Zero Downtime Deployment GraphQL Event Sourcing Microservices Artificial Intelligence UX Optimization Code Review Success is not in what you have, but who you are. Kafka
 Version Control Performance If you can dream it, you can do it. Multi-threading Monitoring Sharding React Act as if what you do makes a difference. It does. Firewalls Simplicity is the ultimate sophistication. Algorithm
 Server Response Docker I find that the harder I work, the more luck I seem to have. Event-driven Architecture API
+Happiness is not something ready made. It comes from your own actions. Microservices Blockchain JWT Version Control Predictive Analytics GraphQL I find that the harder I work, the more luck I seem to have. Frontend Multi-threading WebSockets Security UX Optimization Performance Content Delivery Network
