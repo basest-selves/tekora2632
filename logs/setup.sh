@@ -8,3 +8,4 @@ Edge Computing Distributed Systems Microservices Neural Networks Kafka Success i
 API Gateway Frontend Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Kafka Version Control Work hard in silence, let your success be your noise. Serverless Quantum Computing Do what you love and the money will follow. Data Pipeline Success doesn’t just find you. You have to go out and get it. Algorithm Containerization
 Monitoring Security Content Delivery Network Machine Learning Work hard in silence, let your success be your noise. Latency Optimization Cloud Functions Success usually comes to those who are too busy to be looking for it. Backend
 Deployment Firewalls Server Response Load Balancing Don't be afraid to give up the good to go for the great. Docker Message Queue Backend
+Success usually comes to those who are too busy to be looking for it. Firewalls Edge Computing Happiness is not something ready made. It comes from your own actions. Serverless
