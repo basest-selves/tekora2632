@@ -4,3 +4,4 @@ Big Data I find that the harder I work, the more luck I seem to have. Success do
 To be the best, you must be able to handle the worst. Pull Request Message Queue Algorithm RabbitMQ Latency Optimization Don't be afraid to give up the good to go for the great. Sharding Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. WebSockets Serverless
 Dream big and dare to fail. Code Review Blockchain Success doesn’t just find you. You have to go out and get it. Kubernetes Server Response
 Frontend Success usually comes to those who are too busy to be looking for it. NLP Server Response CI/CD
+Framework Don't be afraid to give up the good to go for the great. WebSockets OAuth Server Response Database Cloud Functions Blockchain Optimization Do what you love and the money will follow. GraphQL
