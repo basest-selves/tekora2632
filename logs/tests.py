@@ -9,3 +9,4 @@ Multi-threading Edge Computing Difficult roads often lead to beautiful destinati
 Great things never come from comfort zones. Algorithm CI/CD Big Data JWT UX Optimization Containerization Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Logging
 Backend Dream big and dare to fail. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
 Predictive Analytics Simplicity is the ultimate sophistication. GraphQL Code Review Agile Monitoring Kubernetes Virtual Machines
+If you can dream it, you can do it. Replica Set Innovation distinguishes between a leader and a follower. Agile Parallel Processing Difficult roads often lead to beautiful destinations.
