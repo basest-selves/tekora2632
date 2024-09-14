@@ -13,3 +13,4 @@ API Gateway Success usually comes to those who are too busy to be looking for it
 Success doesn’t just find you. You have to go out and get it. Container Orchestration Sharding GraphQL Server Response
 Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Cloud Performance Framework
 UX Optimization Agile Zero Downtime Deployment Virtual Machines Blockchain Content Delivery Network
+Parallel Processing Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Agile A/B Testing Success doesn’t just find you. You have to go out and get it. Database Indexing Optimization Load Balancing Opportunities don't happen. You create them. Load Testing Distributed Systems
