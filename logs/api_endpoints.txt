@@ -13,3 +13,4 @@ Predictive Analytics Parallel Processing Innovation distinguishes between a lead
 DNS Routing I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Testing Scalability Backend Latency Optimization Success is how high you bounce when you hit bottom. JWT Edge Computing Artificial Intelligence Agile
 Microservices Containerization Opportunities don't happen. You create them. Code Review Frontend API Framework
 Big Data Database Indexing If you can dream it, you can do it. Automation Algorithm Docker JavaScript Framework
+JWT Virtual Machines Difficult roads often lead to beautiful destinations. Testing Framework GraphQL Event-driven Architecture Machine Learning CI/CD Scalability Great things never come from comfort zones.

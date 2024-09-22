@@ -7,3 +7,4 @@ Edge Computing Parallel Processing Cloud Functions Container Orchestration Serve
 Database Indexing Difficult roads often lead to beautiful destinations. Backend Algorithm Load Balancing Success is how high you bounce when you hit bottom.
 Multi-threading Edge Computing Difficult roads often lead to beautiful destinations. Microservices Cache Invalidation Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. NLP API Optimization
 Great things never come from comfort zones. Algorithm CI/CD Big Data JWT UX Optimization Containerization Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Logging
+Backend Dream big and dare to fail. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
