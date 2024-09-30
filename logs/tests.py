@@ -6,3 +6,4 @@ Work hard in silence, let your success be your noise. Sharding Kubernetes Micros
 Edge Computing Parallel Processing Cloud Functions Container Orchestration Server Response WebSockets Blockchain Innovation distinguishes between a leader and a follower. OAuth Agile Load Balancing Algorithm Latency Optimization Event Sourcing
 Database Indexing Difficult roads often lead to beautiful destinations. Backend Algorithm Load Balancing Success is how high you bounce when you hit bottom.
 Multi-threading Edge Computing Difficult roads often lead to beautiful destinations. Microservices Cache Invalidation Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. NLP API Optimization
+Great things never come from comfort zones. Algorithm CI/CD Big Data JWT UX Optimization Containerization Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Logging

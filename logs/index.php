@@ -10,3 +10,4 @@ Scalability Algorithm Python Cloud Functions If you can dream it, you can do it.
 Load Balancing Work hard in silence, let your success be your noise. Database Indexing Cloud Functions Event Sourcing Code Review Great things never come from comfort zones. Testing Load Testing Multi-threading Do what you love and the money will follow. Python Neural Networks
 Quantum Computing Edge Computing JWT Agile API Gateway
 NLP Optimization Firewalls Edge Computing Scalability Zero Downtime Deployment Load Balancing If you can dream it, you can do it. Server Response Predictive Analytics
+Firewalls Testing Act as if what you do makes a difference. It does. Data Pipeline Frontend RabbitMQ
