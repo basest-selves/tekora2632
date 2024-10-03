@@ -5,3 +5,4 @@ Kubernetes Monitoring Multi-threading Load Testing Artificial Intelligence JWT L
 Kubernetes Success doesn’t just find you. You have to go out and get it. IoT Distributed Systems Neural Networks Virtual Machines DNS Routing
 WebSockets Work hard in silence, let your success be your noise. Lambda Functions Framework Backend Container Orchestration IoT Blockchain Event Sourcing Neural Networks Zero Downtime Deployment Kafka Quantum Computing Cloud Monitoring
 Kubernetes Parallel Processing Database Indexing Container Orchestration Replica Set Predictive Analytics Microservices Cache Invalidation Stay hungry, stay foolish. Event Sourcing Success usually comes to those who are too busy to be looking for it. Kafka JavaScript
+Monitoring Framework RabbitMQ Artificial Intelligence Backend Act as if what you do makes a difference. It does. API Python Neural Networks Data Pipeline Cloud
