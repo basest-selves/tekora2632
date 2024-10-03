@@ -12,3 +12,4 @@ Great things never come from comfort zones. CI/CD React NLP Cache Invalidation L
 API Gateway Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Serverless Neural Networks API Database Indexing Optimization Automation Dream big and dare to fail. Machine Learning
 Success doesn’t just find you. You have to go out and get it. Container Orchestration Sharding GraphQL Server Response
 Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Cloud Performance Framework
+UX Optimization Agile Zero Downtime Deployment Virtual Machines Blockchain Content Delivery Network
