@@ -11,3 +11,4 @@ Predictive Analytics Blockchain If you can dream it, you can do it. Quantum Comp
 Scalability Container Orchestration Cloud Parallel Processing Event-driven Architecture Backend Frontend Content Delivery Network Pull Request
 Event-driven Architecture Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Parallel Processing Neural Networks Sharding Replica Set RabbitMQ Stay hungry, stay foolish. Kafka Simplicity is the ultimate sophistication. Firewalls JavaScript Message Queue
 RabbitMQ Do what you love and the money will follow. Load Balancing Great things never come from comfort zones. Simplicity is the ultimate sophistication.
+Testing Distributed Systems Zero Downtime Deployment GraphQL Event Sourcing Microservices Artificial Intelligence UX Optimization Code Review Success is not in what you have, but who you are. Kafka
