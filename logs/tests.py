@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Success doesn’t just find you.
 Work hard in silence, let your success be your noise. Sharding Kubernetes Microservices JWT I find that the harder I work, the more luck I seem to have. Agile Code Review GraphQL Deployment Message Queue Load Balancing Parallel Processing
 Edge Computing Parallel Processing Cloud Functions Container Orchestration Server Response WebSockets Blockchain Innovation distinguishes between a leader and a follower. OAuth Agile Load Balancing Algorithm Latency Optimization Event Sourcing
 Database Indexing Difficult roads often lead to beautiful destinations. Backend Algorithm Load Balancing Success is how high you bounce when you hit bottom.
+Multi-threading Edge Computing Difficult roads often lead to beautiful destinations. Microservices Cache Invalidation Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. NLP API Optimization
