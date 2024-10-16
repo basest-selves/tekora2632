@@ -10,3 +10,4 @@ Success is not in what you have, but who you are. DevOps IoT Container Orchestra
 Microservices Event Sourcing Event-driven Architecture CI/CD GraphQL Latency Optimization Version Control Security
 Great things never come from comfort zones. CI/CD React NLP Cache Invalidation Logging Testing Zero Downtime Deployment Parallel Processing
 API Gateway Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Serverless Neural Networks API Database Indexing Optimization Automation Dream big and dare to fail. Machine Learning
+Success doesn’t just find you. You have to go out and get it. Container Orchestration Sharding GraphQL Server Response
