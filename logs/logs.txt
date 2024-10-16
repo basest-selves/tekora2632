@@ -9,3 +9,4 @@ Cloud Virtual Machines Artificial Intelligence Microservices A/B Testing Blockch
 Parallel Processing Container Orchestration RabbitMQ Automation Containerization
 Cloud Docker Database Indexing A/B Testing Difficult roads often lead to beautiful destinations. Multi-threading The only way to do great work is to love what you do. Event-driven Architecture Deployment DNS Routing
 Dream big and dare to fail. Event-driven Architecture Parallel Processing Python JavaScript Server Response Scalability Docker Message Queue NLP Edge Computing
+Load Testing Virtual Machines Serverless Content Delivery Network Database If you can dream it, you can do it. Kubernetes Artificial Intelligence Version Control

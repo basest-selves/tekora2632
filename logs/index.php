@@ -8,3 +8,4 @@ Pull Request Zero Downtime Deployment Success is not in what you have, but who y
 IoT Optimization DevOps Don't be afraid to give up the good to go for the great. Data Science Big Data Logging I find that the harder I work, the more luck I seem to have. OAuth
 Scalability Algorithm Python Cloud Functions If you can dream it, you can do it. Quantum Computing Serverless Parallel Processing Logging Big Data
 Load Balancing Work hard in silence, let your success be your noise. Database Indexing Cloud Functions Event Sourcing Code Review Great things never come from comfort zones. Testing Load Testing Multi-threading Do what you love and the money will follow. Python Neural Networks
+Quantum Computing Edge Computing JWT Agile API Gateway
