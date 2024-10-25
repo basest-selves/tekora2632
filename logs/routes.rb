@@ -9,3 +9,4 @@ API Gateway Containerization Framework OAuth Success is not in what you have, bu
 To be the best, you must be able to handle the worst. DevOps UX Optimization If you can dream it, you can do it. React RabbitMQ Artificial Intelligence Latency Optimization Performance Kafka
 Containerization Framework Distributed Systems React Big Data
 Parallel Processing Success usually comes to those who are too busy to be looking for it. API Database Cloud Functions To be the best, you must be able to handle the worst. Logging WebSockets Multi-threading
+Cloud Functions Success usually comes to those who are too busy to be looking for it. Machine Learning Success is how high you bounce when you hit bottom. Latency Optimization Kafka Multi-threading Innovation distinguishes between a leader and a follower. NLP Lambda Functions Content Delivery Network Replica Set UX Optimization Firewalls Database Indexing

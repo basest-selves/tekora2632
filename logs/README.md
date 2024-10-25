@@ -8,3 +8,4 @@ Act as if what you do makes a difference. It does. If you can dream it, you can 
 API Work hard in silence, let your success be your noise. Great things never come from comfort zones. Lambda Functions Algorithm API Gateway Optimization Opportunities don't happen. You create them. Multi-threading Predictive Analytics
 Success is not in what you have, but who you are. DevOps IoT Container Orchestration Deployment Replica Set Testing I find that the harder I work, the more luck I seem to have. Logging Performance Kafka
 Microservices Event Sourcing Event-driven Architecture CI/CD GraphQL Latency Optimization Version Control Security
+Great things never come from comfort zones. CI/CD React NLP Cache Invalidation Logging Testing Zero Downtime Deployment Parallel Processing
