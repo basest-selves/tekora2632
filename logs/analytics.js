@@ -7,3 +7,4 @@ Simplicity is the ultimate sophistication. API Gateway Algorithm Success usually
 Machine Learning Blockchain GraphQL Monitoring Firewalls Parallel Processing Frontend Neural Networks Docker Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Database Indexing
 Scalability Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Docker Multi-threading Load Balancing Data Pipeline Virtual Machines Neural Networks Blockchain
 UX Optimization Testing JavaScript Simplicity is the ultimate sophistication. Containerization Data Science Artificial Intelligence Do what you love and the money will follow.
+Logging Sharding Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Serverless Big Data Containerization Zero Downtime Deployment
