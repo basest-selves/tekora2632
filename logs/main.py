@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Parallel Processing Data Pip
 API Stay hungry, stay foolish. Code Review Containerization Pull Request Virtual Machines React Logging Edge Computing
 Work hard in silence, let your success be your noise. CI/CD Firewalls Act as if what you do makes a difference. It does. DevOps Testing Success usually comes to those who are too busy to be looking for it. Version Control
 If you can dream it, you can do it. Containerization Cloud Serverless Lambda Functions Opportunities don't happen. You create them. Replica Set Python GraphQL Server Response Firewalls Database Cloud Functions Deployment Security
+Server Response NLP Backend Containerization Multi-threading Act as if what you do makes a difference. It does. Neural Networks Artificial Intelligence Database Innovation distinguishes between a leader and a follower. Cloud Container Orchestration If you can dream it, you can do it. CI/CD Agile
