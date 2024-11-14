@@ -9,3 +9,4 @@ Simplicity is the ultimate sophistication. Containerization Data Pipeline Databa
 Logging Zero Downtime Deployment DevOps Firewalls JavaScript Load Balancing Lambda Functions
 Predictive Analytics Blockchain If you can dream it, you can do it. Quantum Computing Great things never come from comfort zones. Docker UX Optimization Happiness is not something ready made. It comes from your own actions.
 Scalability Container Orchestration Cloud Parallel Processing Event-driven Architecture Backend Frontend Content Delivery Network Pull Request
+Event-driven Architecture Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Parallel Processing Neural Networks Sharding Replica Set RabbitMQ Stay hungry, stay foolish. Kafka Simplicity is the ultimate sophistication. Firewalls JavaScript Message Queue
