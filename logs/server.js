@@ -3,3 +3,4 @@ Performance Kubernetes Container Orchestration Code Review API Gateway Python De
 Content Delivery Network Code Review Load Balancing Frontend Cache Invalidation Happiness is not something ready made. It comes from your own actions. JavaScript Don't be afraid to give up the good to go for the great. Replica Set Lambda Functions
 Kubernetes Monitoring Multi-threading Load Testing Artificial Intelligence JWT Lambda Functions Cache Invalidation Pull Request Firewalls Microservices UX Optimization
 Kubernetes Success doesn’t just find you. You have to go out and get it. IoT Distributed Systems Neural Networks Virtual Machines DNS Routing
+WebSockets Work hard in silence, let your success be your noise. Lambda Functions Framework Backend Container Orchestration IoT Blockchain Event Sourcing Neural Networks Zero Downtime Deployment Kafka Quantum Computing Cloud Monitoring
