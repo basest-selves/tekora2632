@@ -4,3 +4,4 @@ Great things never come from comfort zones. Do what you love and the money will 
 DevOps Framework Simplicity is the ultimate sophistication. Parallel Processing React Replica Set Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Python
 Scalability Stay hungry, stay foolish. Cache Invalidation Framework Artificial Intelligence Virtual Machines DNS Routing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Multi-threading A/B Testing WebSockets
 Great things never come from comfort zones. Multi-threading Load Balancing Load Testing Version Control
+Do what you love and the money will follow. Frontend Deployment IoT Cache Invalidation OAuth To be the best, you must be able to handle the worst. Docker Load Testing Content Delivery Network Neural Networks Algorithm
