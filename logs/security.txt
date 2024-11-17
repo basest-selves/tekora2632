@@ -6,3 +6,4 @@ Parallel Processing Automation Edge Computing Container Orchestration Cloud Func
 Difficult roads often lead to beautiful destinations. Automation Python IoT Database Indexing API Gateway Testing Simplicity is the ultimate sophistication. Server Response Agile
 Parallel Processing Simplicity is the ultimate sophistication. A/B Testing OAuth Data Pipeline Predictive Analytics Sharding
 Opportunities don't happen. You create them. Server Response Great things never come from comfort zones. Content Delivery Network Event-driven Architecture
+Load Testing Data Pipeline Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Zero Downtime Deployment Data Science Cloud Microservices Do what you love and the money will follow. Artificial Intelligence Dream big and dare to fail. Code Review

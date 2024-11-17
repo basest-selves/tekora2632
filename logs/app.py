@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Don't be afraid to give up
 Big Data I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Python Data Pipeline Security Great things never come from comfort zones. Database Indexing
 To be the best, you must be able to handle the worst. Pull Request Message Queue Algorithm RabbitMQ Latency Optimization Don't be afraid to give up the good to go for the great. Sharding Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. WebSockets Serverless
 Dream big and dare to fail. Code Review Blockchain Success doesn’t just find you. You have to go out and get it. Kubernetes Server Response
+Frontend Success usually comes to those who are too busy to be looking for it. NLP Server Response CI/CD
