@@ -5,3 +5,4 @@ Kafka Performance CI/CD Optimization Event-driven Architecture Lambda Functions 
 The only way to do great work is to love what you do. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Docker Load Balancing
 Kubernetes Distributed Systems IoT Zero Downtime Deployment Load Balancing Don't be afraid to give up the good to go for the great. Cloud
 JavaScript Data Pipeline Work hard in silence, let your success be your noise. Database Indexing Load Balancing If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Serverless
+Data Pipeline Work hard in silence, let your success be your noise. Content Delivery Network API Gateway Latency Optimization Performance Do what you love and the money will follow. Event-driven Architecture
