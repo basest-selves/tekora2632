@@ -5,3 +5,4 @@ UX Optimization JWT Cloud Innovation distinguishes between a leader and a follow
 DNS Routing Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Cloud Functions Serverless
 Scalability Kafka DNS Routing JavaScript Optimization
 NLP Zero Downtime Deployment If you can dream it, you can do it. Cloud WebSockets Lambda Functions Logging Success is not in what you have, but who you are. Artificial Intelligence Content Delivery Network Kubernetes
+API Gateway To be the best, you must be able to handle the worst. Cloud Functions Container Orchestration Replica Set

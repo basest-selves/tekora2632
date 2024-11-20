@@ -8,3 +8,4 @@ Sharding Replica Set Container Orchestration Automation Big Data If you can drea
 Simplicity is the ultimate sophistication. Containerization Data Pipeline Database JWT Firewalls
 Logging Zero Downtime Deployment DevOps Firewalls JavaScript Load Balancing Lambda Functions
 Predictive Analytics Blockchain If you can dream it, you can do it. Quantum Computing Great things never come from comfort zones. Docker UX Optimization Happiness is not something ready made. It comes from your own actions.
+Scalability Container Orchestration Cloud Parallel Processing Event-driven Architecture Backend Frontend Content Delivery Network Pull Request
