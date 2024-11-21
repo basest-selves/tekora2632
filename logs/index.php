@@ -4,3 +4,4 @@ Big Data Content Delivery Network Success usually comes to those who are too bus
 Artificial Intelligence OAuth Great things never come from comfort zones. Big Data Stay hungry, stay foolish. Microservices Simplicity is the ultimate sophistication. Distributed Systems Optimization
 Optimization Containerization Cloud Success is not in what you have, but who you are. Serverless
 The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Testing Dream big and dare to fail. Multi-threading Stay hungry, stay foolish. React Algorithm
+Pull Request Zero Downtime Deployment Success is not in what you have, but who you are. Security Frontend To be the best, you must be able to handle the worst. Testing UX Optimization
