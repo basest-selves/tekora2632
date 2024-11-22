@@ -2,3 +2,4 @@ Backend JavaScript The only way to do great work is to love what you do. Latency
 Big Data Distributed Systems Blockchain Multi-threading Edge Computing Load Testing Performance Zero Downtime Deployment Artificial Intelligence
 Data Science Replica Set Data Pipeline React Blockchain Zero Downtime Deployment Lambda Functions Event Sourcing Scalability
 API Gateway Automation Performance IoT UX Optimization Difficult roads often lead to beautiful destinations.
+Happiness is not something ready made. It comes from your own actions. Predictive Analytics Code Review Docker Don't be afraid to give up the good to go for the great. Load Testing Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Microservices Big Data Database
