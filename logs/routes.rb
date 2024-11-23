@@ -7,3 +7,4 @@ OAuth Scalability Kafka Difficult roads often lead to beautiful destinations. Ha
 Load Testing Machine Learning Neural Networks Success is not in what you have, but who you are. Database Kafka Event-driven Architecture Backend Dream big and dare to fail.
 API Gateway Containerization Framework OAuth Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. WebSockets Act as if what you do makes a difference. It does. Testing Monitoring Pull Request Replica Set RabbitMQ Event-driven Architecture Agile
 To be the best, you must be able to handle the worst. DevOps UX Optimization If you can dream it, you can do it. React RabbitMQ Artificial Intelligence Latency Optimization Performance Kafka
+Containerization Framework Distributed Systems React Big Data
