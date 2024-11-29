@@ -1,3 +1,4 @@
 Automation Don't be afraid to give up the good to go for the great. Optimization Zero Downtime Deployment Logging Event-driven Architecture Latency Optimization OAuth WebSockets
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Docker Containerization Happiness is not something ready made. It comes from your own actions. Latency Optimization Simplicity is the ultimate sophistication. Frontend
 Big Data I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Python Data Pipeline Security Great things never come from comfort zones. Database Indexing
+To be the best, you must be able to handle the worst. Pull Request Message Queue Algorithm RabbitMQ Latency Optimization Don't be afraid to give up the good to go for the great. Sharding Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. WebSockets Serverless
