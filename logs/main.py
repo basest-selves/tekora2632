@@ -3,3 +3,4 @@ If you can dream it, you can do it. Algorithm Success doesn’t just find you. You
 Success is how high you bounce when you hit bottom. Parallel Processing Data Pipeline NLP RabbitMQ Frontend Deployment Algorithm CI/CD API Gateway If you can dream it, you can do it. Cache Invalidation Pull Request UX Optimization
 API Stay hungry, stay foolish. Code Review Containerization Pull Request Virtual Machines React Logging Edge Computing
 Work hard in silence, let your success be your noise. CI/CD Firewalls Act as if what you do makes a difference. It does. DevOps Testing Success usually comes to those who are too busy to be looking for it. Version Control
+If you can dream it, you can do it. Containerization Cloud Serverless Lambda Functions Opportunities don't happen. You create them. Replica Set Python GraphQL Server Response Firewalls Database Cloud Functions Deployment Security
