@@ -2,3 +2,4 @@ Quantum Computing API Stay hungry, stay foolish. Do what you love and the money 
 Artificial Intelligence Machine Learning Serverless Backend IoT CI/CD Deployment Neural Networks Success is not in what you have, but who you are.
 Event-driven Architecture Optimization Message Queue Cloud Functions Version Control Machine Learning Pull Request Stay hungry, stay foolish. Load Balancing Cloud
 Version Control NLP Docker Framework Sharding
+Monitoring Load Balancing Multi-threading Testing Automation Docker Data Pipeline
