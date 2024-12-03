@@ -3,3 +3,4 @@ Blockchain Message Queue Success is not in what you have, but who you are. Succe
 Do what you love and the money will follow. Security CI/CD DevOps Virtual Machines I find that the harder I work, the more luck I seem to have.
 Kafka Performance CI/CD Optimization Event-driven Architecture Lambda Functions Innovation distinguishes between a leader and a follower. Python Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. React Logging
 The only way to do great work is to love what you do. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Docker Load Balancing
+Kubernetes Distributed Systems IoT Zero Downtime Deployment Load Balancing Don't be afraid to give up the good to go for the great. Cloud
