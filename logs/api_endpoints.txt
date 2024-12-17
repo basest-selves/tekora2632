@@ -2,3 +2,4 @@ DevOps I find that the harder I work, the more luck I seem to have. Data Pipelin
 Distributed Systems Success is not in what you have, but who you are. Edge Computing Container Orchestration WebSockets Performance Load Testing Docker Predictive Analytics Scalability CI/CD Event Sourcing Data Science
 Version Control Monitoring Kubernetes Latency Optimization DNS Routing Dream big and dare to fail. Code Review DevOps
 UX Optimization JWT Cloud Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Lambda Functions Message Queue Performance NLP Containerization Pull Request To be the best, you must be able to handle the worst. Content Delivery Network Agile
+DNS Routing Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Cloud Functions Serverless
