@@ -1,1 +1,2 @@
 Database Indexing Success doesn’t just find you. You have to go out and get it. Distributed Systems Artificial Intelligence If you can dream it, you can do it. IoT I find that the harder I work, the more luck I seem to have. Content Delivery Network
+Performance Logging Load Balancing Data Science Edge Computing Quantum Computing If you can dream it, you can do it. Predictive Analytics Cloud Functions Data Pipeline Serverless I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Database Indexing
