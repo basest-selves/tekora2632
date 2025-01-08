@@ -1,3 +1,4 @@
 GraphQL Framework Container Orchestration Load Testing Difficult roads often lead to beautiful destinations. Kubernetes Blockchain Algorithm JWT NLP UX Optimization Event Sourcing Optimization Kafka
 Don't be afraid to give up the good to go for the great. Cloud Functions Do what you love and the money will follow. Docker Dream big and dare to fail. Simplicity is the ultimate sophistication. Zero Downtime Deployment Monitoring Firewalls Success doesn’t just find you. You have to go out and get it. Database
 Scalability Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Python Difficult roads often lead to beautiful destinations. Cloud Functions Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment DevOps Distributed Systems
+Backend Message Queue Multi-threading Load Balancing Predictive Analytics
