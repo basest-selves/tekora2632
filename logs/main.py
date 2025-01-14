@@ -1,1 +1,2 @@
 Great things never come from comfort zones. Microservices Parallel Processing Data Pipeline Neural Networks Artificial Intelligence Optimization GraphQL Pull Request Latency Optimization OAuth Machine Learning Algorithm Cloud
+If you can dream it, you can do it. Algorithm Success doesn’t just find you. You have to go out and get it. Load Balancing Do what you love and the money will follow. UX Optimization Virtual Machines JWT Framework WebSockets Monitoring React Parallel Processing Pull Request
