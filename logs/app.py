@@ -1,1 +1,2 @@
 Automation Don't be afraid to give up the good to go for the great. Optimization Zero Downtime Deployment Logging Event-driven Architecture Latency Optimization OAuth WebSockets
+The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Docker Containerization Happiness is not something ready made. It comes from your own actions. Latency Optimization Simplicity is the ultimate sophistication. Frontend
