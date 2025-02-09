@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Database Happiness is not something ready made. It comes from your own actions. Edge Computing Predictive Analytics Multi-threading CI/CD Success is how high you bounce when you hit bottom.
